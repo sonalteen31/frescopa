@@ -1,20 +1,20 @@
 {
   "mappings": [
-    "/content/aem-boilerplate-frescopa/:/",
-    "/content/aem-boilerplate-frescopa/en/:/",
-    "/content/aem-boilerplate-frescopa/en/locations/locationslist:/locations.json",
-    "/content/aem-boilerplate-frescopa/es:/es",
-    "/content/aem-boilerplate-frescopa/es/:/es/",
-    "/content/aem-boilerplate-frescopa/fr:/fr",
-    "/content/aem-boilerplate-frescopa/fr/:/fr/",
-    "/content/aem-boilerplate-frescopa/jp:/jp",
-    "/content/aem-boilerplate-frescopa/jp/:/jp/",
-    "/content/aem-boilerplate-frescopa/configuration:/.helix/config.json",
-    "/content/aem-boilerplate-frescopa/headers:/.helix/headers.json"
+    "/content/frescopa/:/",
+    "/content/frescopa/en/:/",
+    "/content/frescopa/en/locations/locationslist:/locations.json",
+    "/content/frescopa/es:/es",
+    "/content/frescopa/es/:/es/",
+    "/content/frescopa/fr:/fr",
+    "/content/frescopa/fr/:/fr/",
+    "/content/frescopa/jp:/jp",
+    "/content/frescopa/jp/:/jp/",
+    "/content/frescopa/configuration:/.helix/config.json",
+    "/content/frescopa/headers:/.helix/headers.json"
   ],
   "includes": [
-    "/content/aem-boilerplate-frescopa/",
-    "/content/dam/aem-boilerplate-frescopa/",
+    "/content/frescopa/",
+    "/content/dam/frescopa/",
     "/content/dam/formsanddocuments/",
     "/content/forms/af/"
   ]
